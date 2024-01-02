@@ -5,6 +5,8 @@
 This is the official repository for the modpack [Minecraft: Console Edition](https://modrinth.com/modpack/consoleedition)
 Here you can report something in the issues, or get more information on the modpack itself!
 
+All mods in Minecraft: Console Edition are *Open Source!* That means you can see rhe source code of every mod in the pack.
+
 The official Download for Console Edition is available on Modrinth.
 
 # 🐛 Issue Tracker
