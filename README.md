@@ -1,6 +1,6 @@
 # Minecraft-Console-Edition
 
-![Logo](https://cdn.modrinth.com/data/VLzAPCXB/images/72bdacf6b07d3cba7e2b5eacf0f2e79c181dcdac.png)
+![Logo](https://cdn.modrinth.com/data/VLzAPCXB/images/b5ddebbc57df31e6ff9c357043feed369788b3a3.png)
 
 This is the official repository for the modpack [Minecraft: Console Edition](https://modrinth.com/modpack/consoleedition)
 Here you can report something in the issues, or get more information on the modpack itself!
